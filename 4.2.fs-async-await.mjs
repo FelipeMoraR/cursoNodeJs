@@ -1,5 +1,6 @@
 import { readFile } from 'node:fs/promises'
 
+// This is asynchronous but secuential
 
 console.log("Leyendo el primer archivo...")
 

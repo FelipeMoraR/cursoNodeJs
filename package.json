@@ -1,0 +1,34 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "description": "Curso de node de midu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeMoraR/cursoNodeJs.git"
+  },
+  "keywords": [
+    "curso",
+    "node",
+    "nodeJS",
+    "midudev"
+  ],
+  "author": "Miguel Anguel Duran - midudev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FelipeMoraR/cursoNodeJs/issues"
+  },
+  "homepage": "https://github.com/FelipeMoraR/cursoNodeJs#readme",
+  "dependencies": {
+    "picocolors": "1.0.0"
+  },
+  "devDependencies": {
+    "standard": "17.1.0"
+  },
+  "eslintConfig": {
+    "extends" : "standard"
+  }
+}
